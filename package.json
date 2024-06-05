@@ -13,10 +13,10 @@
     "url": "git+https://github.com/Gurushant-RB/rb-colorify.git"
   },
   "keywords": [
-    "console",
-    "log",
-    "colorify",
-    "colorfull console"
+    "validator",
+    "email validator",
+    "phone number validator",
+    "mobile number validator"
   ],
   "author": "RB",
   "license": "ISC",
