@@ -1,0 +1,31 @@
+{
+  "name": "colorify",
+  "version": "1.0.0",
+  "description": "To make your console colorfull",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurushant-RB/rb-colorify.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "colorify",
+    "colorfull console"
+  ],
+  "author": "RB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurushant-RB/rb-colorify/issues"
+  },
+  "homepage": "https://github.com/Gurushant-RB/rb-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "files": ["lib/**/*"]
+}
