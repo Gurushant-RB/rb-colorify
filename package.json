@@ -1,5 +1,5 @@
 {
-  "name": "colorify",
+  "name": "rb-colorify",
   "version": "1.0.0",
   "description": "To make your console colorfull",
   "main": "lib/index.js",
